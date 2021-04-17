@@ -12,4 +12,6 @@ After many errors related to asrock's Polychrome I decided to create a file to a
 
 * 3 - Open "Asrock.bat" and go to line "345"
 * 4 - and switch to your version of files
+
+
 ![Exemple](https://i.imgur.com/kw2VuwB.jpeg)
